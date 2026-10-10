@@ -1,5 +1,5 @@
 /* Convite Vaneza & Adilson — 18.12.2026 */
-const WHATSAPP_NUMBER = '244911795226'; // TROCAR pelo número real dos noivos (código do país + número, sem +)
+const WHATSAPP_NUMBER = '244937858182'; // TROCAR pelo número real dos noivos (código do país + número, sem +)
 const EVENT = {
   title: 'Casamento Vaneza & Adilson',
   desc: 'Celebração do casamento de Vaneza & Adilson.',
